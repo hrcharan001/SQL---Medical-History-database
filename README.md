@@ -8,6 +8,9 @@ Created and used the Medical_History database.Explored multiple tables including
 - province_names
 Performed SQL operations such as SELECT, UPDATE, JOIN, GROUP BY, ORDER BY, and CASE statements.
 
+## Project
+- <a href="https://github.com/hrcharan001/SQL---Medical-History-database/blob/main/Medicine_Data_History_Project.sql">Click To View The Project</a>
+
 ## 🧠 Key SQL Problems Solved
 # Data Filtering & Retrieval
 - Retrieved patient details based on gender, allergies, and name patterns.
